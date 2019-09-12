@@ -20,8 +20,8 @@
 		}
 	},
 	"compileType": "miniprogram",
-	"libVersion": "2.4.2",
-	"appid": "wx5363d9bd45509430",
+	"libVersion": "2.8.2",
+	"appid": "wx7fd93a86be8e997c",
 	"projectname": "iMark",
 	"debugOptions": {
 		"hidedInDevtools": []
